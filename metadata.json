@@ -1,0 +1,6 @@
+{
+  "name": "ScholarStep Study Companion",
+  "description": "An interactive secondary education study hub and AI scholar companion for middle and high school students, featuring a core curriculum explorer, dynamic practice quiz engine, historical AI avatars, and a study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
